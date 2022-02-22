@@ -1,5 +1,6 @@
 <code>⚪ Community: Metarhia</code>
 <code>👷 Speciality: Software engineer / Full-stack</code><br>
+<code>🎓 Lecturer</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>📢 [Public talks: 2](TALKS.md)</code>
